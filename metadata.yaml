@@ -1,0 +1,48 @@
+_repo: History-Of-Egypt-Chald-a-Syria-Babylonia-And-AssyriaA-Linked-Index-to-the-Project-Gutenberg-E__28876
+_version: 0.1.0
+alternative_title: "History Of Egypt, Chaldaea, Syria, Babylonia, And Assyria\r\n\
+  A Linked Index to the Project Gutenberg Editions"
+contributor:
+  translator:
+    agent_name: McClure, M. L.
+    alias: McClure, M.L.
+    deathdate: 1918
+    gutenberg_agent_id: '7309'
+    url: http://www.gutenberg.org/2009/agents/7309
+covers:
+- cover_type: archival
+  image_path: 28876-h/files/17322/17322-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maspero, G. (Gaston)
+    alias: Maspero, Gaston Camille Charles, Sir
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '3672'
+    url: http://www.gutenberg.org/2009/agents/3672
+    wikipedia: http://en.wikipedia.org/wiki/Gaston_Maspero
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcsh 'Egypt -- History -- To 640 A.D.'
+- !lcsh 'Middle East -- History'
+- !lcsh 'Civilization, Ancient'
+- !lcc 'DS'
+- !lcsh 'History, Ancient'
+title: 'History Of Egypt, Chaldæa, Syria, Babylonia, And Assyria
+
+  A Linked Index to the Project Gutenberg Editions'
+url: http://www.gutenberg.org/ebooks/28876
